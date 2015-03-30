@@ -1,0 +1,7 @@
+E:\MM\ProjectEuler\TestPlatform\bin\Debug\TestPlatform.exe
+E:\MM\ProjectEuler\TestPlatform\bin\Debug\TestPlatform.pdb
+E:\MM\ProjectEuler\TestPlatform\bin\Debug\Common.dll
+E:\MM\ProjectEuler\TestPlatform\bin\Debug\Common.pdb
+E:\MM\ProjectEuler\TestPlatform\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MM\ProjectEuler\TestPlatform\obj\x86\Debug\TestPlatform.exe
+E:\MM\ProjectEuler\TestPlatform\obj\x86\Debug\TestPlatform.pdb

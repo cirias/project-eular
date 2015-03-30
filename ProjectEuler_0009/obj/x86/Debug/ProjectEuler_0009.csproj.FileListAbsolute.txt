@@ -1,0 +1,5 @@
+E:\MM\ProjectEuler\ProjectEuler_0009\bin\Debug\ProjectEuler_0009.exe
+E:\MM\ProjectEuler\ProjectEuler_0009\bin\Debug\ProjectEuler_0009.pdb
+E:\MM\ProjectEuler\ProjectEuler_0009\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MM\ProjectEuler\ProjectEuler_0009\obj\x86\Debug\ProjectEuler_0009.exe
+E:\MM\ProjectEuler\ProjectEuler_0009\obj\x86\Debug\ProjectEuler_0009.pdb

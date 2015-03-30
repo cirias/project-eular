@@ -1,0 +1,2 @@
+E:\MM\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
+E:\MM\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
